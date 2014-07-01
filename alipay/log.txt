@@ -1,0 +1,12 @@
+集成时请注意：
+本文件log.txt请不要删除。
+该文本用于写日志函数。
+执行日期：20140107093340
+responseTxt=true
+ notify_url_log:isSign=true,discount=0.00&payment_type=1&subject=儿童兴趣课堂&trade_no=2014010853525838&buyer_email=944251511@qq.com&gmt_create=2014-01-08 00:33:37&notify_type=trade_status_sync&quantity=1&out_trade_no=395924458&seller_id=2088902987877304&notify_time=2014-01-08 00:33:38&body=ddiwk@qq.com&trade_status=WAIT_BUYER_PAY&is_total_fee_adjust=Y&total_fee=2.00&seller_email=13318495388&price=2.00&buyer_id=2088302319034384&notify_id=6618bb61c7bd24afa1cd1ae0bb3d287b44&use_coupon=N&sign_type=MD5&sign=2f600373fe94404897e35c2e2647bf88
+执行日期：20140107093356
+responseTxt=true
+ notify_url_log:isSign=true,discount=0.00&logistics_type=EXPRESS&receive_zip=2&payment_type=1&subject=儿童兴趣课堂&logistics_fee=0.00&trade_no=2014010853525838&buyer_email=944251511@qq.com&gmt_create=2014-01-08 00:33:37&notify_type=trade_status_sync&quantity=1&logistics_payment=SELLER_PAY&out_trade_no=395924458&seller_id=2088902987877304&notify_time=2014-01-08 00:33:54&body=ddiwk@qq.com&trade_status=WAIT_SELLER_SEND_GOODS&is_total_fee_adjust=N&gmt_payment=2014-01-08 00:33:54&total_fee=2.00&seller_email=13318495388&price=2.00&buyer_id=2088302319034384&receive_mobile=91771234&gmt_logistics_modify=2014-01-08 00:33:37&receive_phone=91771234&notify_id=078d75dc0e38575b0c3a798e5a1e205544&use_coupon=N&receive_name=cocolili&sign_type=MD5&sign=114b918351b9b8b4bb7fab61abfe19d1&receive_address=XX省XXX市XXX区XXX路XXX小区XXX栋XXX单元XXX号
+执行日期：20140108093432
+responseTxt=true
+ notify_url_log:isSign=true,discount=0.00&logistics_type=EXPRESS&receive_zip=2&payment_type=1&subject=儿童兴趣课堂&logistics_fee=0.00&trade_no=2014010853525838&buyer_email=944251511@qq.com&gmt_create=2014-01-08 00:33:37&notify_type=trade_status_sync&quantity=1&logistics_payment=SELLER_PAY&out_trade_no=395924458&seller_id=2088902987877304&notify_time=2014-01-09 00:34:30&body=ddiwk@qq.com&trade_status=WAIT_SELLER_SEND_GOODS&is_total_fee_adjust=N&gmt_payment=2014-01-08 00:33:54&total_fee=2.00&seller_email=13318495388&price=2.00&buyer_id=2088302319034384&receive_mobile=91771234&gmt_logistics_modify=2014-01-08 00:33:37&receive_phone=91771234&notify_id=650c94ca237c17e16ebdaabff6b62d5644&use_coupon=N&receive_name=cocolili&sign_type=MD5&sign=e6a4e710aa1398da38f3d26744d6b044&receive_address=XX省XXX市XXX区XXX路XXX小区XXX栋XXX单元XXX号

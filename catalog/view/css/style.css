@@ -1,0 +1,304 @@
+body{
+	padding:0;
+	margin:0;
+	border:0;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#234;
+	font-size:14px;
+	background:url('../images/bg.png') repeat-x;
+}
+
+p{
+	line-height:2em;
+}
+
+h3{
+	font-size:17px;
+	color:#000;
+}
+
+h4{
+	font-size:13px;
+	color:#000;
+}
+
+a{
+	color:#4982A9;
+}
+
+a:hover{
+	color:#D00;
+}
+
+hr{
+	color: #eee;
+	background-color: #eee;
+	height: 2px;
+	border:0;
+}
+
+.top{
+	padding:0;
+	margin:0 auto;
+	width:1000px;
+	min-height:100px;
+	height:100px;
+	position:relative;
+	background:url('../images/top.jpg') repeat-x;
+}
+
+.logo{
+	position:absolute;
+	top:10px;
+	left:20px;
+}
+
+.main{
+	padding:0;
+	margin:0 auto;
+	width:1000px;
+}
+
+.nav{
+	padding:7px;background:#D00;
+	margin:0;
+	width:986px;
+	color:#FFF;
+}
+
+.nav a{
+	padding:10px;
+	margin:5px;
+	text-decoration:none;
+	color:#FFF;
+}
+
+.nav a:hover{
+	color:#4982A9;
+}
+
+.slide{
+	width:1000px;
+	min-height:250px;
+	border-bottom:3px #eee solid;
+	text-align:center;
+}
+
+.content{
+	background:#FFF;
+	padding:0;
+	margin:0 auto;
+	width:998px;
+	border:1px #eee solid;
+	border-bottom:5px #eee solid;
+	min-height:600px;
+	margin-bottom:20px;
+}
+
+.content .left{
+	width:260px;
+	padding:20px;
+	padding-bottom:20px;
+	min-height:600px;
+	float:left;
+}
+
+.content .left img{
+	margin-top:20px;
+	margin-bottom:5px;
+	border:2px #eee solid;
+}
+
+.content .left .more{
+	text-align:right;
+}
+
+.content .left .more a{
+	color:#4982A9;
+}
+
+.content .left .more a:hover{
+	color:#D00;
+}
+
+.content .right{
+	width:660px;
+	padding-left:20px;
+	min-height:800px;
+	float:left;
+	border-left:2px #eee solid;
+}
+
+.content .right .rightmid{
+	min-height:400px;
+	width:660px;
+}
+
+.content .right .rightmid .courselist{
+	width:380px;
+	background:#eee;
+	min-height:400px;
+	border:1px solid #ccc;
+	float:left;
+}
+
+.content .left .courselist{
+	background:#eee;
+	min-height:400px;
+	border:1px solid #ccc;
+}
+
+.content .right .rightmid .contacts{
+	width:225px;
+	min-height:400px;
+	float:right;
+	text-align:right;
+}
+
+.courselist h3{
+	background:#ddd;
+	padding:5px;
+	padding-left:25px;
+	margin:0;
+	margin-bottom:20px;
+}
+
+.courselist p{
+	padding:2px;
+	padding-left:50px;
+	margin:0;
+	background:url('../images/redtriangle.png') 30px 11px no-repeat;
+	cursor:pointer;
+	/*text-decoration:underline;*/
+}
+
+.courselist p a{
+	text-decoration:none;
+	color:#234;
+}
+
+.courselist p a:hover{
+	color:#D00;
+}
+
+.courselist ul{
+	margin:0;
+	margin-left:25px;
+	padding:0;
+	list-style:none;
+}
+
+.courselist ul li{
+	margin:15px 15px 15px 0;
+}
+
+.onlinecourse_frame{
+	border:1px #ddd solid;
+	background:#eee;
+}
+
+.onlinecourse_item{
+	text-decoration:none;
+}
+
+.content .right .location{
+	min-height:400px;
+	min-height:400px;
+	border:1px solid #ddd;
+}
+	
+.content .right .location  h3{
+	background:#eee;
+	padding:5px;
+	padding-left:25px;
+	margin:0;
+	margin-bottom:20px;
+}
+
+.content .right .location .addr{
+	min-height:150px;
+	padding:5px;
+	padding-left:20px;
+	margin:5px;
+	margin-bottom:20px;
+	border-bottom:1px solid #eee;
+}
+
+.content .right .location .addr .col{
+	width:200px;
+	min-height:200px;
+	float:left;
+	margin-right:10px;
+}
+
+.footer{
+	margin:0 auto;
+	padding:0px 20px 20px 20px;
+	color:#aaa;
+	font-size:10px;
+	text-align:left;
+	width:960px;
+}
+
+/* VIEDO PAGE */
+
+.video_data{
+	background:#eee;
+	padding:5px;
+}
+
+.video_data table,.video_data tr{
+	width:100%;
+}
+
+.video_data td.first{
+	width:25%;
+	border:1px solid #FFF;
+}
+
+.video_data td.second{
+	width:75%;
+	border:1px solid #FFF;
+}
+
+/* PAYMENT PAGE */
+
+.payment_form{
+	margin:30px;
+	width:920px;
+}
+
+.payment_form table,.payment_form tr{
+	background:#eee;
+	width:100%;
+	padding:10px;
+}
+
+.payment_form td.first{
+	width:25%;
+	border:1px solid #FFF;
+	text-align:right;
+	padding-right:20px;
+	padding-top:7px;
+	padding-bottom:7px;
+}
+
+.payment_form td.second{
+	width:75%;
+	border:1px solid #FFF;
+	text-align:left;
+	padding-left:20px;
+	padding-top:7px;
+	padding-bottom:7px;
+}
+
+
+
+
+
+
+
+
+
+
+
